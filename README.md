@@ -1,5 +1,14 @@
 ### Hi there, I'm [muhuzhongxun!](https://muhuzhongxun.ltd) 👋
+### Languages I use
 
+<p>
+  <img alt="JDK" src="https://img.shields.io/badge/JDK-v1.8-blue">
+  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-2021-blue">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-3.0-white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e2470f?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+### Tools
 
 ### Stats
 *NOTE: 做什么项目好呢？*
